@@ -13,8 +13,8 @@ Before you begin, ensure you have met the following requirements:
 
 To install the required dependencies, run:
 
-- terminal
-  npm install
+bash
+`npm install`
 
 ## API Endpoints
 
