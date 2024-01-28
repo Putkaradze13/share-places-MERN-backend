@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install the required dependencies, run:
 
-bash
+``bash
 `npm install`
 
 ## API Endpoints
