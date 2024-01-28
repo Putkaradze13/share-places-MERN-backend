@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install the required dependencies, run:
 
-``bash
+```bash
 `npm install`
 
 ## API Endpoints
@@ -31,3 +31,4 @@ To install the required dependencies, run:
 - POST /api/places: Create a new place.
 - PATCH /api/places/:placeId: Update a place by ID.
 - DELETE /api/places/:placeId: Delete a place by ID.
+```
