@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "share-places",
+    "DB_PASSWORD": "tvi62fw1",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyCcY1-_Kycp80GdxPKwr_7J1yrD5zHY8Xc",
+    "JWT_KEY": "superSecretKey"
+  }
+}
